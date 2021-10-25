@@ -1,0 +1,2 @@
+numpy
+pyasge>=1.0.0a,<2.0
